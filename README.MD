@@ -25,7 +25,7 @@ Git branch has also been incorporated. It is only visible in valid git repositor
 Other features.
 --------------
 
-Typing "history" returns the full history like in bash. This is accomplished by aliasing "history" to "history 1". CTRL+R initiates backward history search like in bash. With ALT+CursorKeys or CTRL+CursorKeys you can navigate word by word through your buffer. CTRL+W kills a word, "cd -" hops to last directory and so on...
+Typing "history" returns the full history like in bash. This is accomplished by aliasing "history" to "history 1". CTRL+R initiates backward history search like in bash. With ALT+CursorKeys or CTRL+CursorKeys you can navigate word by word through your buffer. CTRL+W kills a word, "cd -" hops to last directory, ALT+. returns last argument from previous command and so on...
 Tab completion uses the zsh style selector you can navigate also with your arrow keys.
 
 This setup assumes neovim is your favorite editor and sets it as default. Aliases for vi and vim are set. Install neovim or adjust config accordingly.
