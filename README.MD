@@ -8,7 +8,7 @@ While fancy setup with oh-my-zsh do exist I wanted to experience the advantages 
 $PS1 (prompt)
 ------------
 
-The prompt looks very similar to bash $PS1. With some minor differences. A normal user prompt is suffixed with % like it is default in zsh instead of bash $. root prompt is still suffixed with #.
+The prompt looks very similar to bash "\$PS1" with some minor differences. A normal user prompt is suffixed with % like it is default in zsh instead of bash $. root prompt is still suffixed with #.
 The hostname is green, normal user is blue, root user is red, working directory yellow. Working directory is usually displayed in full.
 
 ![Alt text](basic_ps1.png "basic prompt segments explained: user, host, return code, working directory")
