@@ -3,7 +3,7 @@ zsh setup
 
 This is my personal favorite zsh setup.
 As a long time bash user I wanted to try out zsh and what cool features it has to offer while still feeling comfortable with what I was used from bash.
-While fancy setup with oh-my-zsh do exist I wanted to experience the advantages in a more conservative way I am accustomed to. So I configured it to behave my favorite commodities with some extras.
+While fancy setups with oh-my-zsh do exist I wanted to experience the advantages in a more conservative way I am accustomed to. So I configured it to behave my favorite commodities with some extras.
 
 $PS1 (prompt)
 ------------
